@@ -1,4 +1,5 @@
 # AI Regulatory Maturity in Healthcare and Drug Development (2025)
+![Banner](banner.png) 
 
 This repository contains an analytical study focused on the regulatory maturity of Artificial Intelligence (AI) systems in the healthcare sector as of 2025. The analysis is presented through a Jupyter Notebook and supported by a structured Excel dataset.
 
